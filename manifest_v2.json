@@ -3,12 +3,14 @@
     "id": "com.local.brainfucklearner",
     "restype": "quick_app",
     "name": "Brainfuck编辑器",
-    "description": "一个Brainfuck执行器，门槛不高，相当于解谜游戏",
+    "description": "一个Brainfuck执行器，门槛不高，相当于解谜游戏，这次更新改进了一下UI",
     "preview": [
       "media/容器 24.png",
-      "media/9p-2026-08-31-12-00-24.png",
-      "media/9p-2026-08-31-12-00-35.png",
-      "media/9p-2026-08-31-13-25-43.png"
+      "media/9p-2026-09-05-14-14-12.png",
+      "media/9p-2026-09-05-14-14-22.png",
+      "media/9p-2026-09-05-14-14-27.png",
+      "media/9p-2026-09-05-14-15-26.png",
+      "media/9p-2026-09-05-14-15-45.png"
     ],
     "icon": "media/logo.png",
     "cover": "media/容器 24.png",
@@ -28,13 +30,13 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.local.brainfucklearner.debug.1.0.0.rpk",
+      "version": "1.0.1",
+      "file_name": "downloads/com.local.brainfucklearner.release.1.0.1.rpk",
       "versionCode": 1
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.local.brainfucklearner.debug.1.0.0.rpk",
+      "version": "1.0.1",
+      "file_name": "downloads/com.local.brainfucklearner.release.1.0.1.rpk",
       "versionCode": 1
     }
   },
